@@ -1,1 +1,1 @@
-AyoMbolos
+Sebuah Line Chat Bot untuk mengingat jumlah bolos anda
