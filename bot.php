@@ -77,7 +77,7 @@ if($command == '/daftar'){
          $client->replyMessage($result_json); 
     }
      else{
-            $simpandata = mysqli_query($con, "INSERT INTO user (userid,count,matkul)VALUES('$userId','0','no')");
+            $simpandata = mysqli_query($con, "INSERT INTO user (userid,count,matkul)VALUES('$userId','0','zahuhuhoiodiwxznzppp')");
         if($simpandata){
             $responses['replyToken']= "$replyToken";
             $responses['messages'][0]['type'] = "text";
